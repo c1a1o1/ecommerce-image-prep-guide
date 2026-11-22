@@ -1,3 +1,7 @@
+**Official website:** [https://www.fujindeai.com/](https://www.fujindeai.com/) (FujinAI)
+
+Collected and curated by the FujinAI team. **Submissions are welcome.** [Open an issue](https://github.com/c1a1o1/ecommerce-image-prep-guide/issues/new) to suggest a resource or correction, or [submit a pull request](https://github.com/c1a1o1/ecommerce-image-prep-guide/pulls) with a proposed edit. Include a source link, a short explanation, and any affiliation. We review submissions before adding them.
+
 # Ecommerce Image Prep Guide
 
 A preflight worksheet for preparing product and collection images without confusing platform acceptance, storefront delivery, or recommended dimensions.
